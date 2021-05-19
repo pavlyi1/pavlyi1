@@ -2,7 +2,6 @@
 
 My name's Pavlyi and I am a Java developer who mainly develops with the Spigot API.
 
-
 My age is about 13 and I study IT.
 
 

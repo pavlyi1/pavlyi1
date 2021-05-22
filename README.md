@@ -5,7 +5,7 @@
 - **Email**: <a href="https://go.pavlyi.eu/email" target="blank">pavlyi.off@gmail.com</a>
 - **Website**: <a href="https://pavlyi.eu/" target="blank">pavlyi.eu</a>
 - **Instagram**: <a href="https://go.pavlyi.eu/instagram" target="blank">@pavlyi1</a>
-- **Discord**: <a href=".">✨ 𝓅𝒶𝓋𝓁𝓎𝒾 ✨#0001</a>
+- **Discord**: <a href="https://discord.com/">✨ 𝓅𝒶𝓋𝓁𝓎𝒾 ✨#0001</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

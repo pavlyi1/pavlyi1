@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pavlyi</h1>
 <h3 align="center">Spigot developer</h3>
 
-📫 Where you can reach me?
+📫 My contacts:
 - **Email**: <a href="https://go.pavlyi.eu/email" target="blank">pavlyi.off@gmail.com</a>
+- **Website**: <a href="https://pavlyi.eu/" target="blank">pavlyi.eu</a>
 - **Instagram**: <a href="https://go.pavlyi.eu/instagram" target="blank">@pavlyi1</a>
 - **Discord**: ✨ 𝓅𝒶𝓋𝓁𝓎𝒾 ✨#0001
 

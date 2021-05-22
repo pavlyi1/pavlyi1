@@ -4,15 +4,7 @@
 📫 Where you can reach me?
 - **Email**: <a href="https://go.pavlyi.eu/email" target="blank">pavlyi.off@gmail.com</a>
 - **Instagram**: <a href="https://go.pavlyi.eu/instagram" target="blank">@pavlyi1</a>
-- **Discord**: <a href="https://www.instagram.com/pavlyi1/" target="blank">@pavlyi1</a>
 - **Discord**: ✨ 𝓅𝒶𝓋𝓁𝓎𝒾 ✨#0001
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/zoithebox" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zoithebox" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/zoibox (don't use it)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="zoibox (don't use it)" height="30" width="40" /></a>
-<a href="https://discord.gg/Zoi#0001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Zoi#0001" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

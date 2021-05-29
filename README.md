@@ -7,6 +7,15 @@
 - **Instagram**: <a href="https://go.pavlyi.eu/instagram" target="blank">@pavlyi1</a>
 - **Discord**: <a href="https://discord.com/" target="blank">✨ 𝓅𝒶𝓋𝓁𝓎𝒾 ✨#0001</a>
 
+
+<h3 align="left">Works:</h3>
+<p align="left"> 
+  <a href="https://go.pavlyi.eu/authTools" target="_blank">
+    <img src="https://github.com/pavlyi1/AuthTools/raw/main/images/pluginLogo-32.png" alt="java" width="40" height="40"/>
+    <span>AuthTools</span>
+  </a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank">

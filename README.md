@@ -11,7 +11,7 @@
 <h3 align="left">Works:</h3>
 <p align="left"> 
   <a href="https://go.pavlyi.eu/authTools" target="_blank">
-    <img src="https://github.com/pavlyi1/AuthTools/raw/main/images/pluginLogo-32.png" alt="java" width="40" height="40"/>
+    <img src="https://github.com/pavlyi1/AuthTools/raw/main/images/pluginLogo-64.png" alt="java" width="40" height="40"/>
     <span>AuthTools</span>
   </a>
 </p>
